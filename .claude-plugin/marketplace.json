@@ -1,0 +1,17 @@
+{
+  "name": "liquidgold",
+  "owner": {
+    "name": "Liquid Gold",
+    "url": "https://liquidgold.cc"
+  },
+  "plugins": [
+    {
+      "name": "liquidgold",
+      "source": "./",
+      "description": "Liquid Gold — source-grounded knowledge from published long-form videos, with cited timestamps.",
+      "version": "0.1.0",
+      "category": "research",
+      "tags": ["youtube", "knowledge", "transcripts", "mcp"]
+    }
+  ]
+}

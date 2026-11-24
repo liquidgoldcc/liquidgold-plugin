@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "liquidgold": {
+      "type": "http",
+      "url": "https://liquidgold.cc/mcp"
+    }
+  }
+}

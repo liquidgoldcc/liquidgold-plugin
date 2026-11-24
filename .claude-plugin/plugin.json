@@ -1,0 +1,12 @@
+{
+  "name": "liquidgold",
+  "version": "0.1.0",
+  "description": "Liquid Gold — source-grounded knowledge from published long-form videos, with cited timestamps.",
+  "author": {
+    "name": "Liquid Gold"
+  },
+  "homepage": "https://liquidgold.cc",
+  "repository": "https://github.com/curlyz/liquidgold-plugin",
+  "license": "MIT",
+  "keywords": ["youtube", "knowledge", "research", "transcripts", "mcp"]
+}
