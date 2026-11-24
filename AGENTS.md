@@ -2,8 +2,8 @@
 
 Dedicated repository for the public Claude Code plugin that bundles the Liquid Gold
 MCP server (`https://liquidgold.cc/mcp`, remote http, OAuth browser sign-in) with
-reader-facing slash commands. Own git repository, remote `origin` curlyz/liquidgold-plugin,
-not yet pinned in antl's `.gitmodules`.
+reader-facing slash commands. Own git repository under the `liquidgoldcc` GitHub org, remote `origin`
+liquidgoldcc/liquidgold-plugin, not yet pinned in antl's `.gitmodules`.
 
 Facts:
 

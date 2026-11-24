@@ -7,7 +7,7 @@ toolset (channels, videos, passages, transcripts, research) plus reader commands
 ## Install
 
 ```text
-/plugin install liquidgold --marketplace curlyz/liquidgold-plugin
+/plugin install liquidgold --marketplace liquidgoldcc/liquidgold-plugin
 ```
 
 On first use, Claude Code opens a browser to sign in to your Liquid Gold account
